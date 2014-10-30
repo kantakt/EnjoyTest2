@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+.pwd{
+    margin-top: 100px;
+    font-size: 33px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.err{
+    color: red;
+}
+
+.open{
+
+    text-align: center;
+}
